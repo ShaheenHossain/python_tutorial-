@@ -1,4 +1,5 @@
 # python_tutorial-
+for loop
 
 student_count = int(input("Enter student count.: "))
 
